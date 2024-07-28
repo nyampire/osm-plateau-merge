@@ -1,6 +1,6 @@
-# Plateauタグ・コンフレーション
+# Plateauタグ・マージ
 
-このリポジトリには、国土交通省 [Plateauプロジェクト](https://www.mlit.go.jp/plateau/)で配布されているデータから抽出されたタグ情報（例: eleなど）を、OpenStreetMap(OSM)にすでに入力されているbuildingポリゴンデータと合成させるためのスクリプト集が含まれています。
+このリポジトリには、国土交通省 [Plateauプロジェクト](https://www.mlit.go.jp/plateau/)で配布されているデータから抽出されたタグ情報（例: eleなど）を、OpenStreetMap(OSM)の既存buildingポリゴンデータと合成させるためのスクリプト集が含まれています。
 
 ## スクリプト
 
